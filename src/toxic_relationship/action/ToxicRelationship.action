@@ -1,0 +1,5 @@
+int32 toxicity_rate
+---
+bool living_status
+---
+string feedback
